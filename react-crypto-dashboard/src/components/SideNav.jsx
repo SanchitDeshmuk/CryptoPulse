@@ -22,7 +22,7 @@ function SideNav() {
   return (
     <Stack justify="space-between" boxShadow="lg" w="16rem" h="100vh">
       <Box>
-        <Heading textAlign="center" fontSize="32px" as="h1" pt="3.5rem">
+        <Heading textAlign="center" fontSize="32px" as="h1" pt="3.5rem" color='purple'>
           @CryptoPulse
         </Heading>
         <Box mt="6" mx="3">
